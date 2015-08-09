@@ -5,7 +5,6 @@ var movies = [
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
-  
     "runtime": 142,
     "genre": [
       "Crime",
