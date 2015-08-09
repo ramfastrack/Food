@@ -23,7 +23,7 @@ var movies = [
   {
     "name": "Rasgulla",
     "outline": "",
-    "rating": 6.3,
+    "rating": 8.3,
     "Productimg": "imgProd/Rasagulla.jpg",
     "year": 1994,
     "stars": [
@@ -44,7 +44,7 @@ var movies = [
   {
     "name": "Gulab Jamun",
     "outline": "",
-    "rating": 5.3,
+    "rating": 9.3,
     "Productimg": "imgProd/Gulaab-Jamuns.jpg",
     "year": 1994,
     "stars": [
@@ -65,7 +65,7 @@ var movies = [
     {
     "name": "Jalebi",
     "outline": "",
-    "rating": 4.3,
+    "rating": 8.8,
     "Productimg": "imgProd/Jalebi.jpg",
     "year": 1994,
     "stars": [
@@ -86,7 +86,7 @@ var movies = [
     {
     "name": "Imarti",
     "outline": "",
-    "rating": 2.3,
+    "rating": 8.3,
     "Productimg": "imgProd/Imarti.jpg",
     "year": 1994,
     "stars": [
@@ -107,7 +107,7 @@ var movies = [
     {
     "name": "Kaju Katli",
     "outline": "",
-    "rating": 5.3,
+    "rating": 8.3,
     "Productimg": "imgProd/kajukatli.jpg",
     "year": 1994,
     "stars": [
