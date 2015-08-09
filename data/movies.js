@@ -1,6 +1,6 @@
 var movies = [
   {
-    "name": "Angel cake",
+    "name": "Balushahi",
     "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
@@ -21,10 +21,10 @@ var movies = [
     "id": 1
   },
   {
-    "name": "Angel cake",
+    "name": "Rasgulla",
     "outline": "",
-    "rating": 9.3,
-    "Productimg": "imgProd/Angel_food_cake.jpg",
+    "rating": 6.3,
+    "Productimg": "imgProd/Rasagulla.jpg",
     "year": 1994,
     "stars": [
       "Tim Robbins",
@@ -42,10 +42,10 @@ var movies = [
     "id": 1
   },
   {
-    "name": "Angel cake",
+    "name": "Gulab Jamun",
     "outline": "",
-    "rating": 9.3,
-    "Productimg": "imgProd/Angel_food_cake.jpg",
+    "rating": 5.3,
+    "Productimg": "imgProd/Gulaab-Jamuns.jpg",
     "year": 1994,
     "stars": [
       "Tim Robbins",
@@ -63,10 +63,10 @@ var movies = [
     "id": 1
   },
     {
-    "name": "Angel cake",
+    "name": "Jalebi",
     "outline": "",
-    "rating": 9.3,
-    "Productimg": "imgProd/Angel_food_cake.jpg",
+    "rating": 4.3,
+    "Productimg": "imgProd/Jalebi.jpg",
     "year": 1994,
     "stars": [
       "Tim Robbins",
@@ -84,10 +84,10 @@ var movies = [
     "id": 1
   },
     {
-    "name": "Angel cake",
+    "name": "Imarti",
     "outline": "",
-    "rating": 9.3,
-    "Productimg": "imgProd/Angel_food_cake.jpg",
+    "rating": 2.3,
+    "Productimg": "imgProd/Imarti.jpg",
     "year": 1994,
     "stars": [
       "Tim Robbins",
@@ -105,10 +105,10 @@ var movies = [
     "id": 1
   },
     {
-    "name": "Angel cake",
+    "name": "Kaju Katli",
     "outline": "",
-    "rating": 9.3,
-    "Productimg": "imgProd/Angel_food_cake.jpg",
+    "rating": 5.3,
+    "Productimg": "imgProd/kajukatli.jpg",
     "year": 1994,
     "stars": [
       "Tim Robbins",
