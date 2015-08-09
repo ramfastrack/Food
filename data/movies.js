@@ -1,7 +1,7 @@
 var movies = [
   {
     "name": "Angel cake",
-    "outline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
@@ -22,7 +22,7 @@ var movies = [
   },
   {
     "name": "Angel cake",
-    "outline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
@@ -43,7 +43,7 @@ var movies = [
   },
   {
     "name": "Angel cake",
-    "outline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
@@ -64,7 +64,7 @@ var movies = [
   },
     {
     "name": "Angel cake",
-    "outline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
@@ -85,7 +85,7 @@ var movies = [
   },
     {
     "name": "Angel cake",
-    "outline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
@@ -106,7 +106,7 @@ var movies = [
   },
     {
     "name": "Angel cake",
-    "outline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "outline": "",
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
