@@ -5,11 +5,7 @@ var movies = [
     "rating": 9.3,
     "Productimg": "imgProd/Angel_food_cake.jpg",
     "year": 1994,
-    "stars": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton"
-    ],
+  
     "runtime": 142,
     "genre": [
       "Crime",
@@ -26,11 +22,7 @@ var movies = [
     "rating": 8.3,
     "Productimg": "imgProd/Rasagulla.jpg",
     "year": 1994,
-    "stars": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton"
-    ],
+
     "runtime": 142,
     "genre": [
       "Crime",
@@ -47,11 +39,7 @@ var movies = [
     "rating": 9.3,
     "Productimg": "imgProd/Gulaab-Jamuns.jpg",
     "year": 1994,
-    "stars": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton"
-    ],
+  
     "runtime": 142,
     "genre": [
       "Crime",
@@ -68,11 +56,7 @@ var movies = [
     "rating": 8.8,
     "Productimg": "imgProd/Jalebi.jpg",
     "year": 1994,
-    "stars": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton"
-    ],
+  
     "runtime": 142,
     "genre": [
       "Crime",
@@ -89,11 +73,7 @@ var movies = [
     "rating": 8.3,
     "Productimg": "imgProd/Imarti.jpg",
     "year": 1994,
-    "stars": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton"
-    ],
+   
     "runtime": 142,
     "genre": [
       "Crime",
@@ -110,11 +90,7 @@ var movies = [
     "rating": 8.3,
     "Productimg": "imgProd/kajukatli.jpg",
     "year": 1994,
-    "stars": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton"
-    ],
+  
     "runtime": 142,
     "genre": [
       "Crime",
