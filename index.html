@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html class=" js  placeholder" lang="en"><head>
 
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
         <title>Food </title>
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -150,23 +153,73 @@
         </div>
     </div>
 </nav>
-  <div class="banner-image banner-image-center banner-image-landing-v2">
-    <div class="fill" style="background:#5d0035">
-        <div class="container-fluid hidden-xs tagline" id="tagline-wrap">
-            <div class="row">
-                <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-                    <div class="buffer-lg"></div>
-                    <img id="tagline" src="" class="img-responsive" style="margin:0 auto;" alt="">
+
+
+
+<div class="banner-image banner-image-center banner-image-landing-v2">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="banner-image banner-image-center banner-image-landing-v2">
+                <div class="fill" style="background:#5d0035">
+                    <div class="container-fluid hidden-xs tagline" id="tagline-wrap">
+                        <div class="row">
+                            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                                <div class="buffer-lg"></div>
+                                <img id="tagline" src="" class="img-responsive" style="margin:0 auto;" alt="">
+                            </div>
+                            <div class="col-sm-offset-0 col-sm-2 col-md-2 col-md-offset-1"> <a href="#learn-more" id="learn-more-link" data-scroll-to=""><img src="" class="img-responsive" alt=""></a>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-sm-offset-0 col-sm-2 col-md-2 col-md-offset-1">
-                    <a href="#learn-more" id="learn-more-link" data-scroll-to=""><img src="" class="img-responsive" alt=""></a>
-					
-					
+            </div>
+        </div>
+        <div class="item">
+            <div class="banner-image banner-image-center banner-image-landing-v2">
+                <div class="fill" style="background:#5DADC0">
+                    <div class="container-fluid hidden-xs tagline" id="tagline-wrap">
+                        <div class="row">
+                            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                                <div class="buffer-lg"></div>
+                                <img id="tagline" src="" class="img-responsive" style="margin:0 auto;" alt="">
+                            </div>
+                            <div class="col-sm-offset-0 col-sm-2 col-md-2 col-md-offset-1"> <a href="#learn-more" id="learn-more-link" data-scroll-to=""><img src="" class="img-responsive" alt=""></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="banner-image banner-image-center banner-image-landing-v2">
+                <div class="fill" style="background:#EF6628">
+                    <div class="container-fluid hidden-xs tagline" id="tagline-wrap">
+                        <div class="row">
+                            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                                <div class="buffer-lg"></div>
+                                <img id="tagline" src="" class="img-responsive" style="margin:0 auto;" alt="">
+                            </div>
+                            <div class="col-sm-offset-0 col-sm-2 col-md-2 col-md-offset-1"> <a href="#learn-more" id="learn-more-link" data-scroll-to=""><img src="" class="img-responsive" alt=""></a>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+ </div>
+   
+
+
+
+
+
+
 
 <div class="container-fluid price-banner visible-xs buffer">
     <p class="text-center textBlack buffer-sm">
@@ -501,45 +554,5 @@ nutrition badge.</h4>
 
       
 </div>
-
-    
-            
-    
-    
-
-<script type="text/javascript">
-    (function($, window, document) {
-
-                if (typeof Bugsnag != 'undefined') {
-            Bugsnag.releaseStage = "";
-            Bugsnag.notifyReleaseStages = ["live", "staging"];
-        }
-        
-            }(window.jQuery, window, document));
-</script>
-
-<script>
-    (function onPageLoadEvent(window) {
-        'use strict';
-
-        var pageViewEvent = function sendPageViewEvent() {
-            var request = new XMLHttpRequest();
-            if (request) {
-                request.open('POST', '/event', true);
-                request.setRequestHeader('Content-Type', 'application/json');
-                request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-                request.send('{ "url": "\/uk\/", "referrer": "http:\/\/wemakewebsites.com\/blog\/20-best-graze-and-drink-e-commerce-websites-2015" }');
-            }
-        };
-
-        if (window.addEventListener) {
-            window.addEventListener('load', pageViewEvent);
-        } else {
-            window.attachEvent('load', pageViewEvent);
-        }
-    }(window));
-</script>
-
-
 
 </body></html>
